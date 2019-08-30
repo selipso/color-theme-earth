@@ -1,0 +1,28 @@
+{
+	"name": "thakker-light-earth-hc",
+	"displayName": "Thakker Light Earth HC",
+	"description": "A Light high contrast theme made with dark, earthy colors on a light background",
+	"version": "1.0.1",
+	"engines": {
+		"vscode": "^1.37.0"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Thakker Light Earth Theme High Contrast",
+				"uiTheme": "vs",
+				"path": "./themes/Thakker Light Earth Theme High Contrast-color-theme.json"
+			}
+		]
+	},
+	"publisher": "thakkerOSS",
+	"__metadata": {
+		"id": "156e2280-0f45-4dc8-a831-a6970708afa2",
+		"publisherDisplayName": "Thakker OSS",
+		"publisherId": "9c53488f-1a67-483f-a3ea-c4edf216cb23"
+	}
+}
