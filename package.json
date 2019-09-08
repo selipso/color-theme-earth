@@ -1,6 +1,6 @@
 {
 	"name": "thakker-light-earth-hc",
-	"displayName": "Thakker Light Earth HC",
+	"displayName": "Thakker Light Earth Color Theme High Contrast",
 	"description": "A Light high contrast theme made with dark, earthy colors on a light background",
 	"version": "1.0.1",
 	"engines": {
@@ -18,6 +18,10 @@
 				"path": "./themes/Thakker Light Earth Theme High Contrast-color-theme.json"
 			}
 		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/selipso/color-theme-earth"	
 	},
 	"publisher": "thakkerOSS",
 	"__metadata": {
